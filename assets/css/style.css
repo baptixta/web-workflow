@@ -3,4 +3,9 @@ body {
   color: #900;
   -webkit-transition: all .5s ease;
   -moz-transition: all .5s ease;
-  transition: all .5s ease; }
+  transition: all .5s ease;
+  font-size: 5px; }
+
+.teste {
+  color: #2f2f2f;
+  background: #f1f1f1; }
